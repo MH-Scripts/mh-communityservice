@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-description 'QB Community Service'
+description 'MH Community Service'
 version '1.0.0'
 
 
